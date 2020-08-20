@@ -1,4 +1,4 @@
-name: d8example
+name: d9example
 recipe: drupal8
 config:
   webroot: projeto/web
